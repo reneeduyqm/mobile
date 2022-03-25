@@ -261,7 +261,6 @@ input[type=checkbox]{
     display:flex;
     justify-content: center;
     width: 100%;
-    margin: 10px;
     line-height: 75px;
     font-size: 30px;
     margin: 40px;
