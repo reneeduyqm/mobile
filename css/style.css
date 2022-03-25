@@ -218,6 +218,7 @@ input[type=checkbox]{
       position: relative;
       text-align: center;
       justify-content: center;
+      left:10px;
       font-size: 14px;
       font-style: oblique;
       font-weight: bold;
